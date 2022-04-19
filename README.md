@@ -3,11 +3,13 @@ The API tests were written in Postman and can be run using Newman. I was only ab
 
 To run the test, 
 
-1. Download and install Node.js.
+1. Download the json folder in this repository
 
-2. Run the command "npm install -g newman" in your CLI.
+2. Download and install Node.js.
 
-3. Run the command "newman run OpenAPI definition.postman_collection"
+3. Run the command "npm install -g newman" in your CLI.
+
+4. Run the command "newman run OpenAPI definition.postman_collection"
 
 
 
